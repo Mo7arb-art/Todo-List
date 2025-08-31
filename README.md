@@ -22,4 +22,3 @@ A modern, responsive Todo List built with **React** and **Vite**, designed for c
 - Clean UI with smooth transitions
 - Keyboard-friendly interactions
 
-## 📁 Project Structure
